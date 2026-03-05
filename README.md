@@ -144,23 +144,6 @@ Financial-Statement-Analysis
 
 ---
 
-# ⚙ System Requirements
-
-## Hardware Requirements
-
-* Processor: 1 GHz or faster
-* RAM: Minimum 2 GB
-* Storage: 500 MB free space
-* Display: 1024 × 768 resolution
-
-## Software Requirements
-
-* Microsoft Excel 2013 or later
-* Windows 10 / macOS
-* Microsoft Office Suite
-
----
-
 # 🧪 Testing Performed
 
 The project was tested using the following methods:
